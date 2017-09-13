@@ -1,0 +1,16 @@
+E:\Projects\AutoDeleteTempFiles\AutoDeleteTempFiles\AutoDeleteTempFiles\obj\Debug\AutoDeleteTempFiles.vbprojResolveAssemblyReference.cache
+E:\Projects\AutoDeleteTempFiles\AutoDeleteTempFiles\AutoDeleteTempFiles\obj\Debug\AutoDeleteTempFiles.mainForm.resources
+E:\Projects\AutoDeleteTempFiles\AutoDeleteTempFiles\AutoDeleteTempFiles\obj\Debug\AutoDeleteTempFiles.Resources.resources
+E:\Projects\AutoDeleteTempFiles\AutoDeleteTempFiles\AutoDeleteTempFiles\obj\Debug\AutoDeleteTempFiles.vbproj.GenerateResource.Cache
+E:\Projects\AutoDeleteTempFiles\AutoDeleteTempFiles\AutoDeleteTempFiles\obj\Debug\AutoDeleteTempFiles.vbproj.CoreCompileInputs.cache
+E:\Projects\AutoDeleteTempFiles\AutoDeleteTempFiles\AutoDeleteTempFiles\bin\Debug\Auto Delete Temp Files.exe.config
+E:\Projects\AutoDeleteTempFiles\AutoDeleteTempFiles\AutoDeleteTempFiles\bin\Debug\Auto Delete Temp Files.exe.manifest
+E:\Projects\AutoDeleteTempFiles\AutoDeleteTempFiles\AutoDeleteTempFiles\bin\Debug\Auto Delete Temp Files.application
+E:\Projects\AutoDeleteTempFiles\AutoDeleteTempFiles\AutoDeleteTempFiles\bin\Debug\Auto Delete Temp Files.exe
+E:\Projects\AutoDeleteTempFiles\AutoDeleteTempFiles\AutoDeleteTempFiles\bin\Debug\Auto Delete Temp Files.pdb
+E:\Projects\AutoDeleteTempFiles\AutoDeleteTempFiles\AutoDeleteTempFiles\bin\Debug\Auto Delete Temp Files.xml
+E:\Projects\AutoDeleteTempFiles\AutoDeleteTempFiles\AutoDeleteTempFiles\obj\Debug\Auto Delete Temp Files.exe.manifest
+E:\Projects\AutoDeleteTempFiles\AutoDeleteTempFiles\AutoDeleteTempFiles\obj\Debug\Auto Delete Temp Files.application
+E:\Projects\AutoDeleteTempFiles\AutoDeleteTempFiles\AutoDeleteTempFiles\obj\Debug\Auto Delete Temp Files.exe
+E:\Projects\AutoDeleteTempFiles\AutoDeleteTempFiles\AutoDeleteTempFiles\obj\Debug\Auto Delete Temp Files.xml
+E:\Projects\AutoDeleteTempFiles\AutoDeleteTempFiles\AutoDeleteTempFiles\obj\Debug\Auto Delete Temp Files.pdb
